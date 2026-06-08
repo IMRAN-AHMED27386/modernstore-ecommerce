@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/E-Commerce-Dubai/',
+  base: '/modernstore-ecommerce/',
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
